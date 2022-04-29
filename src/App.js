@@ -11,20 +11,41 @@ background:var(--grayDark);
 `;
 function App() {
   return (
-    <AppWrapper>
+    
+         <AppWrapper>
       <Menu />
+     
+
       <BannerMain
       videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
       url={dadosIniciais.categorias[0].videos[0].url}
-      videoDescription={"Descrição qualquer"}
+      videoDescription={"Campanha Global da Motorola gravada no mês de janeiro de 2022 na cidade de São Paulo-SP"}
       />
       
       <Carousel
       ignoreFirstVideo
       category={dadosIniciais.categorias[0]}
       />
-
+      <Carousel
+      ignoreFirstVideo
+      category={dadosIniciais.categorias[1]}
+      />
+      <Carousel
+      ignoreFirstVideo
+      category={dadosIniciais.categorias[2]}
+      />
+      <Carousel
+      ignoreFirstVideo
+      category={dadosIniciais.categorias[3]}
+      />
+      
+      
+    
+      <Footer />
     </AppWrapper>
+    
+   
+   
   );
 }
 

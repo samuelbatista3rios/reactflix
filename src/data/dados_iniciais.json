@@ -1,101 +1,72 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Animes",
       "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "cor": "orange",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Legendado",
+        "url": "https://www.crunchyroll.com/pt-br"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Global launch Motorola Edge ",
+          "url":
+          "https://youtu.be/xiaEmfdc9SM"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Naruto vs Pain Dublado - Naruto Shippuden Dublado",
+          "url": "https://www.youtube.com/watch?v=fieqge7aYJM&ab_channel=JhonnySalazarOlivera"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "7 Animes Onde o Protagonista OP é SUBESTIMADO",
+          "url": "https://www.youtube.com/watch?v=NHpEyd-OyOE&ab_channel=TioBruce"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "TENSEI SHITARA SLIME",
+          "url": "https://www.youtube.com/watch?v=2cKbZ-tC3Nk&ab_channel=BN4SSAnimes"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "DragonBall",
+          "url": "https://www.youtube.com/watch?v=0V48FlICnKk&ab_channel=SempreAnime"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Cavaleiros do Zodíaco",
+          "url": "https://www.youtube.com/watch?v=yPGRE6UGrfw&ab_channel=imarciotv"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
-      ]
-    },
-    {
-      "titulo": "Back End",
-      "cor": "#00C86F",
-      "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
-      },
-      "videos": [
-        {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
-        },
-        {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
-        },
-        {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
-        },
-        {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
-        {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "FAIRY TAIL",
+          "url": "https://www.youtube.com/watch?v=63EWW0WBVGk&ab_channel=Crimsonplex"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
+      "titulo": "Futebol",
+      "cor": "#4169e1",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Campeonato Inglês",
+        "url": "https://www.chelseafc.com/en"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
+          "url": "https://www.youtube.com/watch?v=fTU1DJlPzzA&ab_channel=ChelseaFootballClub"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
+          "url": "https://www.youtube.com/watch?v=fTU1DJlPzzA&ab_channel=ChelseaFootballClub"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Every Didier Drogba Chelsea Goal | Legend, Icon, Winner",
+          "url": "https://www.youtube.com/watch?v=ZWYGRehfmR4&ab_channel=ChelseaFootballClub"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "API: Dicionário do Programador",
+          "url": "https://www.youtube.com/watch?v=e4sRjy8jVsU&ab_channel=TNTSportsBrasil"
+        }, 
+        {
+          "titulo": "Manchester United vs Chelsea 1x1",
+          "url": "https://www.youtube.com/watch?v=0m1XEl-As00&ab_channel=ManchesterUnited"
         }
       ]
     },
@@ -125,29 +96,29 @@
       "titulo": "Games",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Quintela20",
+        "url": "https://www.twitch.tv/quintela20"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Call of duty Warzone",
+          "url": "https://www.youtube.com/watch?v=awEYU8LlHi0&ab_channel=Quintela20"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Aprecie a musica",
+          "url": "https://www.youtube.com/watch?v=Ora71LLL9MI&ab_channel=Quintela20"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Revirth Island",
+          "url": "https://www.youtube.com/watch?v=poe6hOoCJNQ&ab_channel=Quintela20"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Nobreza Games",
+          "url": "https://www.youtube.com/watch?v=i9mLcWDplYg&ab_channel=NobrezaGames"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Grand Theft Auto V",
+          "url": "https://www.youtube.com/watch?v=eu_VBkBgyF4&ab_channel=MeuConsole"
         }
       ]
     },

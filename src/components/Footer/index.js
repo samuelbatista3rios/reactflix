@@ -1,17 +1,18 @@
 import React from 'react';
 import { FooterBase } from './styles';
+import GitHub from '../../assets/img/GitHub.png';
 
 function Footer() {
   return (
     <FooterBase>
       <a href="https://www.alura.com.br/">
-        <img src="https://www.alura.com.br/assets/img/alura-logo-white.1570550707.svg" alt="Logo Alura" />
+        <img src={GitHub} alt="Logo GitHub" />
       </a>
       <p>
-        Orgulhosamente criado durante a
+        Confira Meu Repositorio do gitHub
         {' '}
-        <a href="https://www.alura.com.br/">
-          Imersão React da Alura
+        <a href="https://github.com/samuelbatista3rios?tab=repositories">
+          Clicando aqui!!
         </a>
       </p>
     </FooterBase>
